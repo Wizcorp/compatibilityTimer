@@ -1,0 +1,12 @@
+{
+	"name": "compatibilityTimer",
+	"repo": "Wizcorp/compatibilityTimer",
+	"version": "0.1.0",
+	"dependencies": {
+		"Wizcorp/mobileVersionDetection": "0.1.0"
+	},
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
